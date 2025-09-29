@@ -1,30 +1,54 @@
-# Event registration page
+Event Registration Page 🎉
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A simple and responsive Event Registration Web App that allows users to register for events with a clean UI and smooth user experience. Built with modern frontend tools and deployed on Vercel.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sayanbasu2006-4777s-projects/v0-event-registration-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/UXUndbHwi0x)
+🚀 Features
 
-## Overview
+User-friendly event registration form
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Responsive design (works on desktop & mobile)
 
-## Deployment
+Instant form validation
 
-Your project is live at:
+Deployed with Vercel for fast global performance
 
-**[https://vercel.com/sayanbasu2006-4777s-projects/v0-event-registration-page](https://vercel.com/sayanbasu2006-4777s-projects/v0-event-registration-page)**
+🛠️ Tech Stack
 
-## Build your app
+Frontend: React / Next.js (generated with v0)
 
-Continue building your app on:
+Styling: Tailwind CSS
 
-**[https://v0.app/chat/projects/UXUndbHwi0x](https://v0.app/chat/projects/UXUndbHwi0x)**
+Deployment: Vercel
 
-## How It Works
+📦 Installation & Setup
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+To run this project locally:
+
+# Clone the repository
+git clone https://github.com/sayanbasu2006/Even_Registration.git
+
+# Go into the project folder
+cd Even_Registration
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+
+Now open http://localhost:3000
+ in your browser 🚀
+
+🌍 Deployment
+
+The project is live here:
+👉 Event Registration Page
+
+📸 Screenshots
+
+(Add a screenshot of your form/UI here once deployed — makes it look more professional.)
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
