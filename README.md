@@ -43,7 +43,7 @@ Now open http://localhost:3000
 🌍 Deployment
 
 The project is live here:
-👉 Event Registration Page
+[👉 Event Registration Page](https://even-registration.vercel.app/event)
 
 📸 Screenshots
 
