@@ -45,10 +45,6 @@ Now open http://localhost:3000
 The project is live here:
 [👉 Event Registration Page](https://even-registration.vercel.app/event)
 
-📸 Screenshots
-
-(Add a screenshot of your form/UI here once deployed — makes it look more professional.)
-
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
